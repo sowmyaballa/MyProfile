@@ -1,0 +1,98 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@600&display=swap');
+
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    font-family: 'Nunito Sans', sans-serif;
+    background: #edeef0;
+}
+
+.logo-text {
+    font-weight: 700;
+    color: #F05136;
+    font-size: 3em;
+
+}
+
+.nav-link {
+    font-size: 1.8em;
+    text-decoration: none;
+    color: black;
+    cursor: pointer;
+}
+
+.nav-link:hover {
+    color: #F05136;
+}
+header{
+    background:black;
+    color:white;
+}
+header div p {
+    font-size: 2.5em;
+    font-weight: 200;
+}
+
+h1,
+h3,
+h4 {
+    font-weight:700;
+}
+h2{
+    font-weight:500;
+}
+h1 {
+    font-size: 5em;
+}
+
+h2 {
+    font-size: 4em;
+}
+
+h3 {
+    font-size: 2.5em;
+}
+
+h4 {
+    font-size: 1.8em;
+}
+
+.link-button {
+    text-decoration: none;
+    text-align: center;
+    background: #F05136;
+    font-weight: 200;
+    cursor: pointer;
+    letter-spacing: 0.5px;
+    color: white;
+    font-size:1.8em;
+}
+
+.link-button:hover {
+    color: white;
+}
+#bio img{
+    width:250px;
+    height:250px;
+    border-radius:50%
+}
+p{
+    font-size:1.5em;
+}
+hr{
+    width:400px;
+}
+#portfolio {
+    background-color:black;
+    color:white;
+
+}
+#portfolio div article {
+    background:white;
+    color:black;
+    height:200px;
+    width:250px;
+}
